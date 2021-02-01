@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/jo-eunju/Desktop/SelfStudyJava/.metadata/.plugins/org.eclipse.jdt.core
+1355554026.index
