@@ -1,0 +1,20 @@
+package sec05.exam09;
+
+public class LogicalOperatorExample {
+	public static void main(String[] args) {
+		int charCode = 'A';
+		
+		if( (charCode>=65) & (charcode<=90) ) {
+			System.out.println("대문자군요");
+		}
+		
+		if( (charCode>=97) && (charcode<=122) ) {
+			System.out.println("문자군요");
+		}
+		
+		if( !(charCode<48) && !(charcode>57) ) {
+			System.out.println("0~9 자군요");
+		}
+		
+	}
+}

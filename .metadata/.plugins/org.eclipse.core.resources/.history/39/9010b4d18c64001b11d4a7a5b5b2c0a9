@@ -1,0 +1,22 @@
+package sec05.exam08;
+
+public class CompareOperatorExample2 {
+	public static void main(String[] args) {
+		int v2 = 1;
+		double v3 = 1.0;
+		System.out.println(v2 == v3); //true
+		
+		double v4 = 0.1;
+		float v5 = 0.1f;
+		System.out.println(v4 == v5); //false
+		System.out.println((float)v4 == v5); //true (float는 0.1의 근사치를 표현한 것. 타입 변환 해줘야함
+		
+		
+		//string의 경우 ==같은 비교 연산자 대신 equal() 메소드 사용
+		
+		String strVar1 = "신용";
+		String strVar2 = "신용";
+		System.out.println(strVar1.equals(strVar2));
+		System.out.println(!strVar1.equals(strVar2));
+	}
+}
