@@ -8,7 +8,9 @@ public class exam1 {
 		
 		System.out.println("이름: " + name);
 		System.out.print("나이: " + age + "\n");
-		System.out.printf("전화: %1$s-%2$s-%3$s", tel1, tel2, tel3);
+		System.out.printf("전화: %1$s-%2$s-%3$s", tel1,tel2,tel3);
+		
+		//1$: 첫번째, 2$: 두번째, 3$: 세번째를 의미함(문자열 여러개 나열시)
 		
 	}
 	
