@@ -7,7 +7,7 @@ package days01;
  * @content 자바의 정석 Ch02 19쪽 변수(variable) 
  * 						-변수 초기화, 변수 재선언
  *					에러메시지 노랑이 복붙해서 주석화해서 달기(질문,피드백 받기 전)
- */
+ */ 
 public class Ex03 {
 	 
 	public static void main(String[] args) {

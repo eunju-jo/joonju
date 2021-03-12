@@ -7,7 +7,7 @@ package days01;
  * @content 이름 출력
  * 					코드 전체 들여쓰기 세팅( ctrl + i ) 
  * 					main, class 뒷괄호 주석
- *
+ *    
  */
 public class Ex01 {
 	

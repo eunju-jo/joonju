@@ -7,7 +7,7 @@ package days01;
  * @content 코드 주석처리 (ctrl + /), (ctrl+shift+/)
  * 					코드 복사 (ctrl + alt + 방향키)
  * 					코드 원하는 곳으로 이동 (alt + 방향키)
- */
+ */ 
 public class Ex02 {
 
 	public static void main(String[] args) {

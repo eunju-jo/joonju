@@ -6,7 +6,7 @@ package days01;
  * @subject 1일-5번 : 대입연산자, 변수 나열
  * @content	대입연산자(=)는 오른쪽->왼쪽 순서규칙인 것 유의!
  *
- */
+ */ 
 public class Ex05 {
 
 	public static void main(String[] args) {

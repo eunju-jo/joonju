@@ -7,7 +7,7 @@ package days01;
  * @content 자료형 변수명 [=초기값]; 형태로 정의 
  * 						[ ]는 생략가능
  *
- */
+ */ 
 public class Ex04 {
  
 	public static void main(String[] args) {
