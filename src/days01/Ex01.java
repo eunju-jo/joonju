@@ -5,7 +5,7 @@ package days01;
  * @date 2021. 3. 8 - 오후 9:18:20
  * @subject 수업1일차 첫번째 예제(이후 '1일-1번'형태)  
  * @content 이름 출력
- * 					코드 전체 들여쓰기 세팅( ctrl + i )
+ * 					코드 전체 들여쓰기 세팅( ctrl + i ) 
  * 					main, class 뒷괄호 주석
  *
  */

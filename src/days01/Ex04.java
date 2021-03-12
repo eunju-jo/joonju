@@ -9,7 +9,7 @@ package days01;
  *
  */
 public class Ex04 {
-
+ 
 	public static void main(String[] args) {
 
 		//String = 문자열 자료형

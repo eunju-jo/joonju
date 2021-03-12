@@ -11,7 +11,7 @@ public class Ex05 {
 
 	public static void main(String[] args) {
 		// 국어, 영어, 수학을 저장할 변수를 선언하세요.(100으로 초기화)
-		
+		 
 		/* 이렇게도 가능하고
 		 * int kor =100;
 		 * int eng =100;
