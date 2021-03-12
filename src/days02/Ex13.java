@@ -9,7 +9,7 @@ package days02;
  *
  */
 public class Ex13 {
-
+ 
 	public static void main(String[] args) {
 
 		// p55 문자형 : char(유니코드 2바이트) 

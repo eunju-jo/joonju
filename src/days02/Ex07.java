@@ -9,7 +9,7 @@ package days02;
  *					출력서식 %b
  *					아래가 불린관련 도움말 긁어온 것. 각 요소 설명 내용
  *					%[argument_index$][flags][width][.precision]conversion
- */
+ */ 
 public class Ex07 {
 
 	public static void main(String[] args) {

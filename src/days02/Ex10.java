@@ -8,7 +8,7 @@ package days02;
  *
  */
 public class Ex10 {
-
+ 
 	public static void main(String[] args) {
 		/*
 		  논리형 리터럴: true, false

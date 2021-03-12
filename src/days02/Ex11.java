@@ -8,7 +8,7 @@ package days02;
  * 					: int값을 2진수로 바꿔주는 함수
  *
  */
-public class Ex11 {
+public class Ex11 { 
 	public static void main(String[] args) {
 	
 		int i = 10;

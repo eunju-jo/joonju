@@ -8,7 +8,7 @@ package days02;
  *
  */
 public class Ex12 {
-
+ 
 	public static void main(String[] args) {
 		/* [ n진수 ]
 		 * 10진수 : 0 1 2 3 4 5 6 7 8 9

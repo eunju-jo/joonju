@@ -7,7 +7,7 @@ package days02;
  * @content 정석 p25
  *		식별자: 프로그래밍에서 사용하는 모든 이름. 개발자가 명명한 것
  */
-
+ 
 public class Ex05 {
 
 	public static void main(String[] args) {

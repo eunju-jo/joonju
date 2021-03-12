@@ -7,7 +7,7 @@ package days02;
  * @content 정석 27p
  *					자료형의 종류 구분과 크기
  */
-public class Ex06 {
+public class Ex06 { 
 
 	public static void main(String[] args) {
 

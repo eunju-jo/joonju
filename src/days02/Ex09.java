@@ -8,7 +8,7 @@ package days02;
  *
  */
 public class Ex09 {
-
+ 
 	public static void main(String[] args) {
 
 		//리터럴: A, true, false, 3.14 등 그 값 자체

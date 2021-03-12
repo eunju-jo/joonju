@@ -7,7 +7,7 @@ package days02;
  * @content 나열 순서에 따라 어떻게 출력되는지 확인.
  * 					문자열이 먼저 올 때, 숫자가 먼저 올 때에 따라 연산 방법이 달라지니 유의
  *
- */
+ */ 
 public class StringEx {
 	public static void main(String[] args) {
 		String name = "Ja" + "va";

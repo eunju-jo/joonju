@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
  *
  */
 public class Ex14 {
-
+ 
 	public static void main(String[] args) throws IOException {
 
 		

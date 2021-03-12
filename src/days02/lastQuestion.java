@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	 *  출력형식 아래와 같이 세개만 출력
 	 *  이름: 조은주
 	 *  총점: ???
-	 *  평균: 83.12
+	 *  평균: 83.12 
 	 */ 
 	
 /*	System.out.print("> 국어 성적을 입력하세요? \n");

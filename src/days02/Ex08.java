@@ -8,7 +8,7 @@ package days02;
  *
  */
 public class Ex08 {
-
+ 
 	public static void main(String[] args) {
 
 		//정수계열 byte(1), short(2), int(4), long(8)
