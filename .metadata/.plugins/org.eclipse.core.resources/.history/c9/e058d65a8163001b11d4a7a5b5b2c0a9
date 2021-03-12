@@ -1,0 +1,11 @@
+package sec03.exam05;
+
+public class OperationPromotionExample {
+	public static void main(String[] args) {
+		byte byteValue1 = 10;
+		byte byteValue2 = 20;
+		//byte byteValue3 = byteValue1 + byteValue2; 하면 컴파일 에러남
+		int intValue1 = byteValue1 + byteValue2;
+		System.out.println(intValue1);
+	}
+}

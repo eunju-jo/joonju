@@ -1,0 +1,18 @@
+package sec04.exam05;
+
+import java.util.Scanner;
+
+public class ScannerExample {
+	public static void main(String[] args) throws Exception{
+		Scanner scanner = new Scanner(System.in);
+		String inputData;
+		
+		String str = "[필수 정보 입력]";
+		System.out.println(str);
+		
+			inputData = scanner.nextLine();
+			System.out.println("1.이름: " +inputData );
+	
+	
+	}
+}
