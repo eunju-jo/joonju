@@ -9,4 +9,9 @@
 		<item key="patterns" value="*"/>
 		<item key="deleteSubPackages" value="false"/>
 	</section>
+	<section name="RefactoringStatusDialog">
+		<item key="DIALOG_WIDTH" value="800"/>
+		<item key="DIALOG_HEIGHT" value="488"/>
+		<item key="DIALOG_FONT_NAME" value="1|.SF NS|13.0|0|COCOA|1|.SFNS-Regular"/>
+	</section>
 </section>

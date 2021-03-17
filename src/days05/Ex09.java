@@ -1,3 +1,5 @@
+package days05;
+
 import java.util.Scanner;
 
 public class Ex09 {

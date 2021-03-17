@@ -12,8 +12,8 @@ public class Ex08 {
 		}//for
 //		System.out.printf();
 		
-		int max = Math.max(n,m);
-		int min = Math.min(n,m);
+//		int max = Math.max(n,m);
+//		int min = Math.min(n,m);
 	}//main
 
 }
