@@ -14,7 +14,7 @@ public class Ex03_02 {
 		int kor, eng, mat, tot;
 		double avg;
 
-		kor = getScore("국어"); //만들고 오른쪽 파랑버튼 누르면 바로 이동
+		kor = getScore("국어"); //만들고 오른쪽 파랑버튼 누르면 새 함수로 바로 이동
 		eng = getScore("영어");
 		mat = getScore("수학");
 
