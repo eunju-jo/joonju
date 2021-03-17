@@ -37,7 +37,7 @@ public class Ex05 {
 	
 		
 		//로또 번호 추첨 1~45까지 난수 발생
-		System.out.println((in)(Math.random()*45 +1));
+		System.out.println((int)(Math.random()*45 +1));
 		
 		
 	}//main

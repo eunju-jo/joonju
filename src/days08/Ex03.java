@@ -47,7 +47,7 @@ public class Ex03 {
 			System.out.println("정당한 점수를 입력하세요: ");
 		}
 
-		//다시 실행하게 돌리는거 어떻게 하더라???
+
 
 	}//main
 

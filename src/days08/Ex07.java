@@ -34,6 +34,8 @@ public class Ex07 {
 		System.out.println();
 	}
 
+	
+	
 	private static void fillM(int[] m) {
 		for (int i = 0; i < m.length; i++) {
 			m[i]= (int)(Math.random()*100+1);

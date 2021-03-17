@@ -24,15 +24,15 @@ public class Ex01_prac {
 */
 			
 	//모래시계
-		int end=1;
+		int end=0;
 		for (int i = 1; i <=5; i++) {
-			end += (i<=3)?  
-			for (int j = 1; j <=5; j++) {
-				if(i<=j && end) System.out.print("*");
-				else System.out.print("_");
+			for (int j = 1; j <=end; j++) {
+				System.out.print("_");
 			}
-
-			
+			for (int j = 1; j <=5-2*end; j++) { //end값이랑 *(5-3-1)비교해보면 end에 2곱해서 *이랑 더하면 5 같을거같음..맞음
+				 System.out.print("*");
+			}
+			end += (i < 3 ? 1 : -1);  
 			System.out.println();
 		}
 		

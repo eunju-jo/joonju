@@ -32,10 +32,10 @@ System.out.println();
 			for (int j = 1; j <=end; j++) {
 				System.out.print("_");
 			}
-			for (int n = 1; n <=5-2*end; n++) {
+			for (int n = 1; n <= 5-2*end ; n++) {
 				System.out.print("*");
 			}
-			end += (i<3? 1 : -1);
+			end += (i<3 ? 1 : -1);
 			System.out.println();
 		}
 
