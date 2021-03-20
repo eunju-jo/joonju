@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @content
  *
  */
-public class Prac01 {
+public class Prac01__cf {
 
 	public static void main(String[] args) {
 		//내일1. 마름모찍기
@@ -51,6 +51,8 @@ __*
 		roundUp(pi);
 		
 		System.out.println();
+		
+		
 		//내일3. 가위바위보 ex05_02 (com이랑 user 배틀)
 		
 		System.out.print("가위바위보를 입력하세요 [ 가위(1), 바위(2), 보(3) ] : ");

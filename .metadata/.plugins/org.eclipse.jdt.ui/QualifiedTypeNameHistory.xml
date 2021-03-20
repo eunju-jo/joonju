@@ -5,13 +5,18 @@
 <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.regex.Match"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.Double"/>
-<fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="sun.security.util.Length"/>
 <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.ConstantPool.Index"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
 <fullyQualifiedTypeName name="days08.Ex05"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="javafx.scene.control.SplitPane.Divider"/>
 <fullyQualifiedTypeName name="com.sun.javafx.binding.StringFormatter"/>
+<fullyQualifiedTypeName name="java.lang.Character"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="days09.Ex05"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.SWAP"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
 </qualifiedTypeNameHistroy>
