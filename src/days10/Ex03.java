@@ -41,8 +41,8 @@ public class Ex03 {
 		}
 		
 		int ㅍ = 11 - (tot % 11);
-		if (ㅍ ==10) ㅍ=1;
-		else if(ㅍ ==11) ㅍ=0;
+		if (ㅍ ==10) ㅍ=0;
+		else if(ㅍ ==11) ㅍ=1;
 		int ㅎ = rrn.charAt(13)-48; //마지막 원래번호 ㅍ을 ㅎ 으로 가정
 		return ㅍ == ㅎ; //true or false 나오니까
 		
