@@ -34,7 +34,7 @@ public class Re_Ex00 {
 		Random rnd = new Random();
 		
 		
-		lottos[j] = (int)(Math.random()*45+1);
+//		lottos[j] = (int)(Math.random()*45+1);
 		
 		
 	}

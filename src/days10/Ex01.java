@@ -29,8 +29,8 @@ public class Ex01 {
 //	int idx = sequenceSearch(m,n);    
 	
 
-			sequenceSearch(m, n);
-	System.out.println();
+	int [] x = sequenceSearch(m, n);
+	System.out.println( Arrays.toString(x) );
 	
 //	System.out.println(idx);
 	
@@ -38,16 +38,24 @@ public class Ex01 {
 	
 	// return이 아니라 void로 처리해버리면 이함수는 찾는 용도 외에 다른 용도로 더 쓸수가 없음.
 	// --> main 함수에서 return 값으로 다른 연산에 더 활용할 수 없다는뜻. 그러니 리턴으로 하는게 좋음
-	private static int sequenceSearch(int[] m, int n) {
+	private static int [] sequenceSearch(int[] m, int n) {
 		int [] x = new int[ m.length];
 		
-		Arrays.fill(x, -1); // x배열 안에 전부다 -1로 채우겠다 (밑에랑 같은 코딩)
 		/*
 		for (int i = 0; i < m.length; i++) {
 			x[i] = -1;
 		}
 		*/
-		return ;
+		Arrays.fill(x, -1); // x배열 안에 전부다 -1로 채우겠다 (밑에랑 같은 코딩)
+		
+		for (int i = 0, j=0; i < m.length; i++) {
+			if(m[i] == n) {
+				x[j] = i;
+				j++;
+			}
+		}
+		
+		return x;
 	}
  
 }

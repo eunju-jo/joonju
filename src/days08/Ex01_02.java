@@ -32,7 +32,6 @@ public class Ex01_02 {
 		System.out.println(Math.abs(2.92)); //절대값후 2.92 리턴???? 절대값이?
 		System.out.println(Math.abs(2.92));
 		
-		math.a
 		
 		
 		

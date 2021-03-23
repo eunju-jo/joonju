@@ -49,7 +49,7 @@ public class Ex00_02 {
 		int realLastNum = rrn.charAt(13)-48;
 		return checkNum == realLastNum;
 	}		
-	\
+	
 	
 	
 	private static int getCentury(String rrn) {
