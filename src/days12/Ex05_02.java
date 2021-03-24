@@ -28,7 +28,7 @@ public class Ex05_02 {
 
 		int [] binary = new int[16]; // 16비트(2바이트)	  0000 0000 0000 1010  요런식으로 넣을거임
 				
-		//while 나머지 나온걸 /2해서 제일 끝방부터 채워나가라 /조건식? 몫이 0일때까지
+		//while 나머지 나온걸 /2해서 제일 끝방부터 채워나가7라 /조건식? 몫이 0일때까지
 //		몫share or quota, 나머지theRest or remainder
 		int share = n;	 //입력받은것이 일단 몫일 것 
 		int theRest;
