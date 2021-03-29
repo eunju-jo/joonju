@@ -5,11 +5,11 @@ import java.util.Scanner;
 /**
  * @author 조은주
  * @date Mar 24, 2021 - 8:24:15 PM
- * @subject 기존 로또 함수 main 함수만 수정해서 이차원 배열 [][] 개념 이
+ * @subject 기존 로또 함수 main 함수만 수정해서 이차원 배열 [][] 개념 이해
  * @content [wants][] wants자리 -행
  *
  */
-public class Ex07_02 {
+public class Ex07_02lotto {
 
 
 	public static void main(String[] args) {

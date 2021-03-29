@@ -1,4 +1,4 @@
-package days13;
+package days14;
 
 import java.util.*;
 
@@ -25,13 +25,14 @@ class Bookex5_21 {
 			}
 		}
 
+		
 		// 배열에 저장된 값을 뒤섞는다.(shuffle)
 		for(int i=0;i<SIZE;i++) {
 			for(int j=0;j<SIZE;j++) {
-				x = (int)(Math.random() * SIZE);
-				y = (int)(Math.random() * SIZE);
+				x = (int)(Math.random() * SIZE); //0~4 행
+				y = (int)(Math.random() * SIZE); //0~4 열
 
-				// bingo[i][j]와 임의로 선택된 값(bingo[x][y])을 바꾼다.
+				// bingo[i][j]와 임의로 선택된 값(bingo[x][y])을 바꾼다. 자리 교체
 				int tmp =  bingo[i][j];
 				bingo[i][j] = bingo[x][y];
 				bingo[x][y] = tmp;
@@ -46,7 +47,7 @@ class Bookex5_21 {
 			}
 			System.out.println();
 
-			System.out.printf("1~%d의 숫자를 입력하세요.(종료:0)>", SIZE*SIZE);
+			System.out.printf("1~%d의 숫자를 입력하세요.(종료:0):", SIZE*SIZE);
 			String tmp = scanner.nextLine(); // 화면에서 입력받은 내용을 tmp에 저장
 			num = Integer.parseInt(tmp);     // 입력받은 문자열(tmp)를 숫자로 변환
 
@@ -63,3 +64,5 @@ class Bookex5_21 {
 		} while(num!=0); 
 	} // main의 끝
 }
+
+///몇개의 빙고가 맞았는지는 없어서 추가하면 좋겠음

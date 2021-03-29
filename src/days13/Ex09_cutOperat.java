@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  */
 
-public class Ex09 {
+public class Ex09_cutOperat {
 
 	public static void main(String[] args) {
 
@@ -138,9 +138,24 @@ public class Ex09 {
 //			}
 //		}
 //		System.out.println(Arrays.toString(sticks));
-
+	}
 
 
 	}//cut함수
 
-}
+//}
+//
+//설명)))
+//[]배열 중 가장 작은 min스틱 찾아옴: 2
+//min으로 다 잘라냄 3 2 2 0 0 4
+//0인 놈 제거
+//그러고 또 min 찾아서 반복
+//
+//방법)
+//먼저 오름차순으로 정렬
+//첫 좌표가 제일 작은 값
+//다음방으로 이동시키는데 같은 값이면 쓰루함 (다른 값이 나올때까지 진행)
+//짤라가며 할필요없이 배열안에서 for문 한번만 돌리면 됨
+//idx값 체크해서 뒤로 출력하고 이러면 된대,,	
+//
+

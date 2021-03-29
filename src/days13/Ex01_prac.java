@@ -228,8 +228,8 @@ public class Ex01_prac {
 //enum 열거형 switch에 주석 없으면 이름모르니까 부여 
 //가독성 위해 이렇게 밑에 쓰고 스위치문 수정 가능
 
-class Menu {
+ class Menu {
 	static final int ADD = 1;
 	static final int DISP = 5;
 	static final int EXIT = 7;
-}
+}   

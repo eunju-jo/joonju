@@ -1,4 +1,4 @@
-package days13;
+package days14;
 
 
 /**
@@ -20,7 +20,12 @@ class Bookex5_22 {
 				{3, 4},
 				{5, 6}
 		};
-
+		
+		// 결과는 2행2열 값 [2][2]
+//		m{1}라인 ~ {1,3,5}곱 {2.4.6}곱
+//		m{2}라인 ~ {1,3,5}곱 {2.4.6}곱
+		
+		
 		final int ROW    = m1.length;      // m1의 행길이
 		final int COL    = m2[0].length;  // m2의 열길이
 		final int M2_ROW = m2.length;	    // m2의 행길이
